@@ -1,0 +1,5 @@
+derive_targets_from_directories: true
+directories:
+   calc_core
+   calc_div
+   -calc_core/operations
